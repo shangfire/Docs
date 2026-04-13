@@ -319,15 +319,6 @@ flowchart TD
 https://opencode.ai/
 https://github.com/code-yeongyu/oh-my-openagent
 
-### OpenWork
-- 客户端
-- 基于OpenCode的模拟OpenClaw的版本
-- 开箱即用，不用像OpenClaw一样各种配置
-
-- 翻墙后更稳定
-
-https://openworklabs.com/
-
 ### Copilot
 - IDE插件
 - 需要付费，但是有一个月的免费试用期
@@ -346,13 +337,33 @@ https://openworklabs.com/
 - 国产，免费，无需翻墙
 - 模型选择有限
 
-- 之前的版本严重拖慢vsstudio启动速度，且易崩溃
+- 之前的版本严重拖慢vsstudio启动速度，且易崩溃，与其他agent插件可能有冲突
 
 ### ClaudeCode
+- IDE插件 + cli
 - 业界翘楚，各种先发概念的推进者，包括MCP、Agent等
 - 功能极其强大
+- 源码已泄漏，是非常好的Agent流程学习对象
 
 - 需要付费，价格较高，每月20美元，且不提供免费试用期
 - 对于中国大陆环境极度不友好，需要强力稳定的翻墙软件，付费困难，且易封号，建议通过Copilot、OpenCode这种第三方Agent间接使用
 
 https://claude.com/product/claude-code
+
+### OpenWork
+- 客户端
+- 针对非编程场景
+- 开箱即用，不用像OpenClaw一样各种配置
+
+- 翻墙后更稳定
+
+https://openworklabs.com/
+
+### OpenClaw
+- 客户端
+- 针对非编程场景
+- Github上Star数最高的Agent项目，社区活跃，功能强大，支持各种插件
+
+- 翻墙后更稳定
+
+https://myclaw.ai/
